@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/***
+/**
  * main - start point of the formula
  *
  * Return: 0
