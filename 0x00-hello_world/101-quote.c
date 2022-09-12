@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
+ *
  * main - Prints out the last part of a quote
- * * Return: 
+ * This is an advanced quiz
+ * * Return: 1
  */
 int main (void)
 {
